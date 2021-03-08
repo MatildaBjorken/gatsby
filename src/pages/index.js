@@ -23,7 +23,7 @@ export default () => {
   return (
     <StyletronProvider value={engine}>
       <BaseProvider theme={Theme}>
-        <h1>heyyyyy</h1>
+        <h1>heyy</h1>
         <App />
       </BaseProvider>
     </StyletronProvider>
