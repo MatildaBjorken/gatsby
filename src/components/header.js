@@ -34,7 +34,7 @@ const Header = ({ siteTitle }) => (
       </StyledNavigationItem>
       <StyledNavigationItem>
         <Link href={`mailto:${config.contact.email}`}>
-          <Button>Let's talk</Button>
+          <Button>talk to meeee</Button>
         </Link>
       </StyledNavigationItem>
     </StyledNavigationList>
